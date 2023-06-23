@@ -1,4 +1,4 @@
-# CNN Feature Maps Visualization for Emotions using FER 2013 Dataset
+# 1.CNN Feature Maps Visualization for Emotions using FER 2013 Dataset
 This project aims to visualize the feature maps of a Convolutional Neural Network (CNN) trained on the FER 2013 dataset to predict emotions. The FER 2013 dataset contains facial images labeled with various emotions, including angry, happy, sad, and more.
 
 ## Dataset
@@ -33,7 +33,7 @@ Visualize the feature maps: Plot the feature maps for each emotion category (ang
 Interpretation: Analyze the patterns and activations in the feature maps to gain insights into what the model focuses on when predicting different emotions. This can help in understanding which facial features or regions contribute to the model's decision-making process.
 
 
-# Logistic-Regression-on-the-Titanic-Dataset
+# 2.Logistic-Regression-on-the-Titanic-Dataset
 This project aims to predict the survival of passengers on the Titanic using logistic regression. The Titanic dataset is a well-known dataset that contains information about the passengers aboard the Titanic, including whether they survived or not.
 
 ### Dataset
@@ -75,7 +75,7 @@ Run the logistic_regression.py script:<br>
 The logistic regression model predicts the survival of passengers based on the provided features. The accuracy of the model on the test dataset is 72.97%. Additionally, various visualizations are generated to explore the dataset and gain insights into the relationships between different variables.
 
 
-# Multiple Models Training on the Google Play Store Dataset
+# 3.Multiple Models Training on the Google Play Store Dataset
 This project aims to train multiple models on the Google Play Store dataset to predict various app attributes and categories. The dataset contains information about different apps available on the Google Play Store, including app names, categories, ratings, reviews, sizes, and more.
 
 ## Dataset
